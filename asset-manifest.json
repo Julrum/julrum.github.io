@@ -1,18 +1,31 @@
 {
   "files": {
-    "main.js": "/static/js/main.0e177003.chunk.js",
-    "main.js.map": "/static/js/main.0e177003.chunk.js.map",
+    "main.js": "/static/js/main.6a5499ac.chunk.js",
+    "main.js.map": "/static/js/main.6a5499ac.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d18ba15e.js",
     "runtime-main.js.map": "/static/js/runtime-main.d18ba15e.js.map",
     "static/js/2.6b75fcec.chunk.js": "/static/js/2.6b75fcec.chunk.js",
     "static/js/2.6b75fcec.chunk.js.map": "/static/js/2.6b75fcec.chunk.js.map",
     "index.html": "/index.html",
     "static/js/2.6b75fcec.chunk.js.LICENSE.txt": "/static/js/2.6b75fcec.chunk.js.LICENSE.txt",
+    "static/media/D2Coding-ligature.db0ef87a.ttf": "/static/media/D2Coding-ligature.db0ef87a.ttf",
+    "static/media/D2Coding.8e1251be.ttf": "/static/media/D2Coding.8e1251be.ttf",
+    "static/media/D2CodingBold-ligature.cec928b5.ttf": "/static/media/D2CodingBold-ligature.cec928b5.ttf",
+    "static/media/D2CodingBold.9c7c4594.ttf": "/static/media/D2CodingBold.9c7c4594.ttf",
+    "static/media/Pretendard-Black.83962177.woff2": "/static/media/Pretendard-Black.83962177.woff2",
+    "static/media/Pretendard-Bold.31ae8501.woff2": "/static/media/Pretendard-Bold.31ae8501.woff2",
+    "static/media/Pretendard-ExtraBold.094145e7.woff2": "/static/media/Pretendard-ExtraBold.094145e7.woff2",
+    "static/media/Pretendard-ExtraLight.96f2702d.woff2": "/static/media/Pretendard-ExtraLight.96f2702d.woff2",
+    "static/media/Pretendard-Light.b626e2e0.woff2": "/static/media/Pretendard-Light.b626e2e0.woff2",
+    "static/media/Pretendard-Medium.7a16648a.woff2": "/static/media/Pretendard-Medium.7a16648a.woff2",
+    "static/media/Pretendard-Regular.ff7c5251.woff2": "/static/media/Pretendard-Regular.ff7c5251.woff2",
+    "static/media/Pretendard-SemiBold.27f36bb5.woff2": "/static/media/Pretendard-SemiBold.27f36bb5.woff2",
+    "static/media/Pretendard-Thin.c305111b.woff2": "/static/media/Pretendard-Thin.c305111b.woff2",
     "static/media/README.c3564cb6.md": "/static/media/README.c3564cb6.md"
   },
   "entrypoints": [
     "static/js/runtime-main.d18ba15e.js",
     "static/js/2.6b75fcec.chunk.js",
-    "static/js/main.0e177003.chunk.js"
+    "static/js/main.6a5499ac.chunk.js"
   ]
 }
